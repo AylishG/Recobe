@@ -1,6 +1,6 @@
 # Recobe  
 <p align="start">
-  <img src="screenshots/ic_launcher2.png" width="200">
+  <img src="screenshots/splash_screen.png" width="200">
   <br>
   <em>First Prototype with a limited functions and lower interface</em>
 </p> 
