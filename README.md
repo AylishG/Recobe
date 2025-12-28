@@ -1,4 +1,4 @@
-# Recobe  
+# Recobe
 <p align="start">
   <img src="screenshots/splash_screen.png" width="100">
   <br>
