@@ -1,10 +1,10 @@
 # Recobe  
 <p align="start">
-  <img src="screenshots/ic_launcher.png" width="200">
+  <img src="screenshots/Screenshot 2024-10-25 154700.png" width="200">
   <br>
   <em>First Prototype with a limited functions and lower interface</em>
 </p> 
-Recobe is a global launch platform where every photo and video you share reaches the world instantly — without followers, algorithms, or popularity barriers.
+Recobe is a global launch platform where every photo and video you share reaches the world instantly — without followers, popularity barriers.
 Just upload → launch → and your post becomes visible to users across the globe in a single unified feed.
 
 📌 No popularity bias
