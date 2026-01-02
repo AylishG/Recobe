@@ -1,5 +1,5 @@
 # Recobe  
-<p align="center">
+<p align="start">
   <img src="screenshots/splash_screen.png" width="120">
   <br>
   <em></em>
@@ -57,14 +57,18 @@ Share roadmap updates and release notes
 Have a suggestion? Create an issue — we listen.  
 
 # Screenshots  
-><table align="center">
+<table align="start">
   <tr>
-    <td align="start">
+    <td align="center">
       <img src="screenshots/Screenshot_20240224_153512.jpg" width="200"><br>
       <em>Welcome Screen</em>
     </td>
-    <td align="start">
+    <td align="center">
       <img src="screenshots/Screenshot_20240224_153527.jpg" width="200"><br>
+      <em>Login Screen</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_20240106-201746_Recobe.jpg" width="200"><br>
       <em>Login Screen</em>
     </td>
   </tr>
