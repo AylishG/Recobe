@@ -1,6 +1,6 @@
 # Recobe  
 <p align="start">
-  <img src="screenshots/splash_screen.png" width="180">
+  <img src="screenshots/splash_screen.png" width="140">
   <br>
   <em></em>
 </p> 
@@ -79,6 +79,19 @@ Have a suggestion? Create an issue — we listen.
     <td align="center">
       <img src="screenshots/Screenshot_20240106-202021_Recobe.jpg" width="200"><br>
       <em>Discover Screen</em>
+    </td>
+  </tr>
+</table> 
+
+<table align="start">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_20240106-201834_Recobe.jpg" width="200"><br>
+      <em>Image Launch</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_20240224_130136.jpg" width="200"><br>
+      <em>LOD Screen</em>
     </td>
   </tr>
 </table> 
