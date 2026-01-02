@@ -2,7 +2,7 @@
 <p align="start">
   <img src="screenshots/splash_screen.png" width="120">
   <br>
-  <em>First Prototype with a limited functions and lower interface</em>
+  <em></em>
 </p> 
 Recobe is a global launch platform where every photo and video you share reaches the world instantly — without followers, popularity barriers.
 Just upload → launch → and your post becomes visible to users across the globe in a single unified feed.
@@ -55,6 +55,31 @@ Share roadmap updates and release notes
  Trending / Category-based Filters  
  Creator Badges & Recognition System  
 Have a suggestion? Create an issue — we listen.  
+
+# Screenshots  
+<p align="start">
+  <img src="screenshots/Screenshot_20240224_153512.jpg" width="200">
+  <br>
+  <em>Welcome Screen</em>
+</p>
+<p align="start">
+  <img src="screenshots/Screenshot_20240224_153527.jpg" width="200">
+  <br>
+  <em>Login Screen</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_20240224_153512.jpg" width="200"><br>
+      <em>Welcome Screen</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_20240224_153527.jpg" width="200"><br>
+      <em>Login Screen</em>
+    </td>
+  </tr>
+</table> 
 
 # 🤝 Contributing  
 We welcome:  
